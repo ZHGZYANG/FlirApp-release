@@ -1,14 +1,6 @@
 # S3 App-release
 
 
-### researcher version (no validation)
+### New version (Choose validation on left, right, both, or disable it.)
 
-https://github.com/ZHGZYANG/FlirApp-release/blob/main/S3_no_validation.apk
-
-### user version (with validation)
-
-https://github.com/ZHGZYANG/FlirApp-release/blob/main/S3_with_validation.apk
-
-### old version
-
-https://github.com/ZHGZYANG/FlirApp-release/blob/main/app-release.apk
+https://github.com/ZHGZYANG/S3App-release/blob/main/app-release.apk
